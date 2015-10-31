@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\libs\support-annotations-21.0.0-rc1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="57c343f05b73b923bf2502b05851dbfe12193dcb">
+        <dex dex="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-rc1-5d46ad48457aa555f6233df0c2ca52545e92e9fe.jar" />
+    </item>
+    <item
+        jar="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\libs\SocialSDK_WeiXin_2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ec0faf74d92d4882d9be51b1b9ebb5ebc83fbea7">
+        <dex dex="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\build\intermediates\pre-dexed\debug\SocialSDK_WeiXin_2-343e05088e762212d93d73fdf1a5168b3db27d30.jar" />
+    </item>
+    <item
+        jar="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\libs\SocialSDK_Sina.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="fd07c18d274be387922d55964e04cb418133c80f">
+        <dex dex="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\build\intermediates\pre-dexed\debug\SocialSDK_Sina-0c05359b56f302fb1c8373fdf9aed962d84fb0ab.jar" />
+    </item>
+    <item
+        jar="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\libs\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\build\intermediates\pre-dexed\debug\butterknife-7.0.1-6ad3e409813ce564659edcccaea3d7d06f0206f0.jar" />
+    </item>
+    <item
+        jar="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\libs\SocialSDK_WeiXin_1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\build\intermediates\pre-dexed\debug\SocialSDK_WeiXin_1-f6365a70faae81e9903fff96e6cbb79cbb649c62.jar" />
+    </item>
+    <item
+        jar="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\libs\SocialSDK_QQZone_1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\build\intermediates\pre-dexed\debug\SocialSDK_QQZone_1-fe04c6c09e7058b3425fdec6a4f4648c9edec21d.jar" />
+    </item>
+    <item
+        jar="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\libs\SocialSDK_laiwang_1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="5778375ae0d0aa13d1e8f810116bce0672ad7973">
+        <dex dex="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\build\intermediates\pre-dexed\debug\SocialSDK_laiwang_1-50601b896a1aad97fdc6179b5d5f0d3cefb0c5ea.jar" />
+    </item>
+    <item
+        jar="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-4e4c7bba5e0f04cad4a70b7aae86a46fe8100c54.jar" />
+    </item>
+    <item
+        jar="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\libs\umeng-analytics-v5.4.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="75ef4894b1489017838dc57dbe9a5782ab12c427">
+        <dex dex="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\build\intermediates\pre-dexed\debug\umeng-analytics-v5.4.2-b731ec9bf27b575d7ebf2bbfaf9c7c60cbaf267b.jar" />
+    </item>
+    <item
+        jar="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\libs\SocialSDK_sms.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="5cdbc35bf51e70cf589157dea2648dbf8795b062">
+        <dex dex="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\build\intermediates\pre-dexed\debug\SocialSDK_sms-709a34b3f830fda3fd88906d487f7af269311ca7.jar" />
+    </item>
+    <item
+        jar="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\libs\httpmime-4.1.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\build\intermediates\pre-dexed\debug\httpmime-4.1.3-9046564c5c0ea088a14e7f29fbe76369fddc61e7.jar" />
+    </item>
+    <item
+        jar="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\build\intermediates\exploded-aar\一个CleanMaster的Demo\cleanmaster-libary\unspecified\jars\libs\android-support-v7-recyclerview.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9b8f8c6bffdb2ecf68d488704e8ddd2684f0a508">
+        <dex dex="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\build\intermediates\pre-dexed\debug\android-support-v7-recyclerview-d0837edfe725c00a0a70084ec16ea1cfbfc580dd.jar" />
+    </item>
+    <item
+        jar="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
+        <dex dex="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\build\intermediates\pre-dexed\debug\android-support-v4-953220aeb1d5205f91b67172225b4b1be63b9379.jar" />
+    </item>
+    <item
+        jar="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\build\intermediates\exploded-aar\一个CleanMaster的Demo\library-circular\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="c2db41b892307ed342fed87eedd005be901445c2">
+        <dex dex="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\build\intermediates\pre-dexed\debug\classes-632584f8c9ccc63af36e609441f2049ee3677054.jar" />
+    </item>
+    <item
+        jar="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\libs\SocialSDK_laiwang_2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="6d0b4d7e24b935fbe93d548eb1ce37d50dc42888">
+        <dex dex="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\build\intermediates\pre-dexed\debug\SocialSDK_laiwang_2-30aa69c3af7f3a9712af9859f398b7da1f0ff09e.jar" />
+    </item>
+    <item
+        jar="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\libs\umeng_social_sdk.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="857c78387c5b911f5dc9b20b307f0edfd16befed">
+        <dex dex="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\build\intermediates\pre-dexed\debug\umeng_social_sdk-ca51bab3cb3e4fc2ec1c7b31d7a49647feca1172.jar" />
+    </item>
+    <item
+        jar="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\libs\SocialSDK_QQZone_3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d57cae1dcd1eeeec2cd8197fcdd7a0316216481e">
+        <dex dex="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\build\intermediates\pre-dexed\debug\SocialSDK_QQZone_3-70da41a2d2a98edcd628551e30623398e00dc2c5.jar" />
+    </item>
+    <item
+        jar="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\build\intermediates\exploded-aar\一个CleanMaster的Demo\cleanmaster-libary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d65e5c815ab1c7f06a17f05ebd477e099565636f">
+        <dex dex="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\build\intermediates\pre-dexed\debug\classes-745f6706e51e0c87d84d35c6a60c40388aaaee51.jar" />
+    </item>
+    <item
+        jar="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\libs\com.haarman.listviewanimations-2.6.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="59351ccb0a1631d30358f6a92749a072f2df7602">
+        <dex dex="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\build\intermediates\pre-dexed\debug\com.haarman.listviewanimations-2.6.0-dacf0fe236d940d433fdcf1a99d7b45555cc2540.jar" />
+    </item>
+    <item
+        jar="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\libs\umeng-update-v2.5.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7bfd85d65a43fcf2cd343f11c13ad29bc3965a1f">
+        <dex dex="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\build\intermediates\pre-dexed\debug\umeng-update-v2.5.0-ef766020c9cdae5956627ceddc2aba5d94ce57c0.jar" />
+    </item>
+    <item
+        jar="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\libs\SocialSDK_QQZone_2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4a69b33758dcba3ef519cbd4b6c8af5f41603c4f">
+        <dex dex="D:\MyAndroidProjectTest\MyCompanyNotes\一个CleanMaster的Demo\CleanMaster\build\intermediates\pre-dexed\debug\SocialSDK_QQZone_2-e58ea22725d6fb6cd32b1473eed9a7cdad0ed9ec.jar" />
+    </item>
+
+</items>

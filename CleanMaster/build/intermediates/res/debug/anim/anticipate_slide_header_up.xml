@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@android:anim/anticipate_interpolator">
+
+<translate android:fromXDelta="0%"
+           android:toXDelta="0%"
+           android:fromYDelta="0%"
+           android:toYDelta="-100%"
+           android:duration="@android:integer/config_shortAnimTime"/>
+</set><!-- From: file:/D:/MyAndroidProjectTest/MyCompanyNotes/一个CleanMaster的Demo/cleanmaster-libary/res/anim/anticipate_slide_header_up.xml --><!-- From: file:/D:/MyAndroidProjectTest/MyCompanyNotes/一个CleanMaster的Demo/CleanMaster/build/intermediates/exploded-aar/一个CleanMaster的Demo/cleanmaster-libary/unspecified/res/anim/anticipate_slide_header_up.xml -->

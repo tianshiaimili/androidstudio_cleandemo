@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/MyAndroidProjectTest/MyCompanyNotes/一个CleanMaster的Demo/cleanmaster-libary/res/values/tags.xml -->
+    <eat-comment/>
+    <item name="scroll_threshold_key" type="id"/>
+</resources>

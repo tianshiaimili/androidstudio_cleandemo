@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <scale
+        android:fillAfter="true"
+        android:fromXScale="1.0"
+        android:fromYScale="1.0"
+        android:interpolator="@android:anim/decelerate_interpolator"
+        android:pivotX="50.0%"
+        android:pivotY="50.0%"
+        android:toXScale="1.1"
+        android:toYScale="1.1"/>
+    
+<!--     <alpha
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:fromAlpha="1.0"
+        android:toAlpha="0.0" 
+        android:duration="200"
+        /> -->
+
+</set><!-- From: file:/D:/MyAndroidProjectTest/MyCompanyNotes/一个CleanMaster的Demo/CleanMaster/res/anim/welcome_fade_in_scale.xml -->
